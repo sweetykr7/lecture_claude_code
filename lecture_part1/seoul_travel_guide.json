@@ -1,0 +1,125 @@
+{
+  "seoul_attractions": [
+    {
+      "id": 1,
+      "name_kr": "경복궁",
+      "name_en": "Gyeongbokgung Palace",
+      "category": "역사/문화",
+      "description": "조선시대 궁궐 중 가장 규모가 크고 역사가 깊은 법궁",
+      "image_highlights": "근정전의 웅장한 2층 목조 건축물, 화려한 단청과 곡선미가 돋보이는 지붕",
+      "best_time": "가을 (단풍), 봄 (벚꽃), 맑은 날 추천",
+      "activities": ["왕궁 투어", "수문장 교대식 관람", "한복 체험", "사진 촬영"],
+      "tips": "입장료 3,000원, 한복 착용 시 무료 입장"
+    },
+    {
+      "id": 2,
+      "name_kr": "북촌한옥마을",
+      "name_en": "Bukchon Hanok Village",
+      "category": "전통 마을",
+      "description": "600년 역사의 전통 한옥이 보존된 주거 지역",
+      "image_highlights": "한복을 입은 관광객들이 경회루 연못가에서 사진 촬영",
+      "best_time": "봄, 가을 (한복 체험하기 좋은 날씨)",
+      "activities": ["한옥 거리 산책", "한복 대여 및 촬영", "전통 공방 체험", "카페 탐방"],
+      "tips": "주민들의 사생활 보호를 위해 조용히 관람, 주말은 혼잡"
+    },
+    {
+      "id": 3,
+      "name_kr": "국립중앙박물관",
+      "name_en": "National Museum of Korea",
+      "category": "문화/교육",
+      "description": "한국 역사와 문화를 한눈에 볼 수 있는 세계 6위 규모의 박물관",
+      "image_highlights": "현대적인 건축 디자인의 야경, 조명이 아름다운 외관",
+      "best_time": "연중 무휴 (수요일, 토요일은 야간개장)",
+      "activities": ["상설 전시 관람", "특별 전시", "문화 체험 프로그램", "정원 산책"],
+      "tips": "무료 입장 (특별전은 유료), 수요일/토요일 21시까지 야간개장"
+    },
+    {
+      "id": 4,
+      "name_kr": "N서울타워",
+      "name_en": "N Seoul Tower",
+      "category": "전망대/랜드마크",
+      "description": "서울의 상징적인 랜드마크, 남산 정상의 전망대",
+      "image_highlights": "경복궁 배치도 (이미지가 궁궐 지도를 보여줌)",
+      "best_time": "일몰 시간대 (낮과 야경 모두 감상 가능)",
+      "activities": ["전망대에서 서울 시내 조망", "사랑의 자물쇠", "회전 레스토랑", "남산 케이블카"],
+      "tips": "케이블카 왕복 11,000원, 전망대 입장료 별도"
+    },
+    {
+      "id": 5,
+      "name_kr": "서울숲",
+      "name_en": "Seoul Forest",
+      "category": "공원/자연",
+      "description": "도심 속 대형 공원으로 다양한 생태 공간 보유",
+      "image_highlights": "전통 건축의 정문 (門春建 현판)",
+      "best_time": "봄 (벚꽃), 가을 (단풍)",
+      "activities": ["산책 및 조깅", "피크닉", "사슴 먹이주기", "자전거 라이딩"],
+      "tips": "무료 입장, 반려동물 동반 가능 구역 있음"
+    },
+    {
+      "id": 6,
+      "name_kr": "한강공원",
+      "name_en": "Han River Park",
+      "category": "공원/레저",
+      "description": "한강을 따라 조성된 시민 휴식 공간",
+      "image_highlights": "경복궁 전경 항공샷 (궁궐 배치 구조 확인 가능)",
+      "best_time": "봄, 가을 (야외 활동하기 좋은 날씨)",
+      "activities": ["자전거 대여", "치맥(치킨+맥주)", "수상 스포츠", "피크닉", "야경 감상"],
+      "tips": "11개 지구로 나뉘어져 있음, 여의도/반포/뚝섬 지구가 인기"
+    },
+    {
+      "id": 7,
+      "name_kr": "명동",
+      "name_en": "Myeongdong",
+      "category": "쇼핑/음식",
+      "description": "서울의 대표 쇼핑 및 관광 중심지",
+      "image_highlights": "한복 입은 관광객이 경회루 관람",
+      "best_time": "연중 (크리스마스 시즌 특히 화려함)",
+      "activities": ["화장품 쇼핑", "길거리 음식", "패션 쇼핑", "명동성당 방문"],
+      "tips": "주말과 저녁 시간대 매우 혼잡, 환전소 많음"
+    },
+    {
+      "id": 8,
+      "name_kr": "홍대",
+      "name_en": "Hongdae",
+      "category": "문화/엔터테인먼트",
+      "description": "젊음과 예술의 거리, 클럽과 공연 문화의 중심지",
+      "image_highlights": "경회루 야경과 벚꽃, 물에 반사된 아름다운 전각",
+      "best_time": "저녁~밤 (클럽 문화), 주말 (거리 공연)",
+      "activities": ["클럽/바", "라이브 공연", "거리 공연 관람", "독특한 카페/음식점"],
+      "tips": "주차 어려움, 대중교통 이용 추천, 금/토요일 밤 가장 활기참"
+    },
+    {
+      "id": 9,
+      "name_kr": "롯데월드",
+      "name_en": "Lotte World",
+      "category": "테마파크",
+      "description": "실내외 테마파크와 쇼핑몰이 결합된 복합 엔터테인먼트 공간",
+      "image_highlights": "경복궁 전통 건축물들",
+      "best_time": "평일 (주말은 매우 혼잡), 실내이므로 날씨 무관",
+      "activities": ["놀이기구", "퍼레이드 관람", "아이스링크", "민속박물관", "쇼핑"],
+      "tips": "자유이용권 59,000원, 온라인 예매 할인, 매직패스로 대기 시간 단축"
+    },
+    {
+      "id": 10,
+      "name_kr": "DDP 동대문디자인플라자",
+      "name_en": "Dongdaemun Design Plaza (DDP)",
+      "category": "디자인/문화",
+      "description": "자하 하디드가 설계한 미래지향적 디자인 복합문화공간",
+      "image_highlights": "유기적 곡선의 은빛 외관, 항공에서 본 독특한 건축 형태",
+      "best_time": "야간 (LED 장미정원), 연중 무휴",
+      "activities": ["전시 관람", "디자인 마켓", "LED 장미정원", "패션쇼/이벤트", "사진 촬영"],
+      "tips": "대부분 무료, 일부 전시는 유료, 동대문 쇼핑과 연계 가능"
+    }
+  ],
+  "summary": {
+    "total_attractions": 10,
+    "categories": {
+      "역사문화": 3,
+      "현대건축": 2,
+      "자연공원": 2,
+      "쇼핑엔터": 2,
+      "테마파크": 1
+    },
+    "recommendation": "다양한 테마의 명소로 전통과 현대가 조화를 이룬 서울의 매력을 경험할 수 있습니다."
+  }
+}
